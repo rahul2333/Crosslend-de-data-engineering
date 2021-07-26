@@ -15,7 +15,7 @@ It will ingest the data to MySQL database to their respective tables like 'nyc_t
 Orchestration is through composer/airflow
 
 ## Architecture Flow
-![alt text](http://url/to/img.png)
+![FlowDiagram](https://github.com/rahul2333/Crosslend-de-data-engineering/blob/main/Images/crosslend_png.png)
 
 
 ## Assumptions
