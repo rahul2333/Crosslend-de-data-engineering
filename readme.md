@@ -96,7 +96,8 @@ and can be queried as below
 * In order to view the daily trends we need to perform the group by based on dates and similary we can view it for yearly just by performing the transformations as shown above.
 
 ## Further possible enhancements
-* The spining of GCP services can be automated
+* The spinning of GCP services can be automated
+* Better ways to handle exceptions  
 * Instead of Cloud SQL it can be replaced with BigQuery for faster analytics purpose
 * Using Bigquery will imporove performance faster by using partitions
 
